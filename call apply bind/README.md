@@ -48,4 +48,4 @@ Certainly! `call()`, `apply()`, and `bind()` are three methods in JavaScript tha
     ```
     
 
-In summary, `call()` and `apply()` are used for immediate invocation with specific `this` and arguments, while `bind()` is used to create new functions with a specific `this` context and optional arguments, which can be invoked later. Each method has its own use cases based on the desired behavior and requirements of your code.
+In summary, `call()` and `apply()` are used for immediate invocation with specific `this` and arguments, while `bind()` is used to create new functions with a specific `this` context and optional arguments, which can be invoked later. Each method has its own use cases based on the desired behavior and requirements of your code!
